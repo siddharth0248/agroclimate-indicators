@@ -4,7 +4,7 @@
 Description = Extracts specific crop (Apple) data from annual CONUS Cropland Data Layer (CDL) GeoTIFFs. " 
                   "This script processes downloaded 30-meter resolution CDL files to create crop-specific maps.
 date = 2025-07-15
-author = Chinmay Deval
+author = Chinmay Deval & Siddharth Chaudhary
 """
 
 

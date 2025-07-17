@@ -2,7 +2,7 @@
 Description: Downloads and unzips CONUS Cropland Data Layer (CDL) GeoTIFFs for specified years in parallel. 
 This script fetches 30-meter resolution CDL data from the USDA NASS website.
 Date: 2025-07-15
-Author: Chinmay Deval
+Author: Chinmay Deval & Siddharth Chaudhary
 
 """
 
