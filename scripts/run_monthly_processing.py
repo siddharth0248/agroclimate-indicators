@@ -15,8 +15,8 @@ if __name__ == "__main__":
     print("=" * 60)
     
     # Set your data paths here
-    data_dir = "../data/NLDAS3"  # Adjust this path to your NLDAS data
-    output_dir = "../data/monthly_indicators"  # Output directory for monthly files
+    data_dir = "/Volumes/Chinmay_2TB/NLDAS3_AgroClimatic_vars/NLDAS3/"  # Adjust this path to your NLDAS data
+    output_dir = "/Volumes/Chinmay_2TB/NLDAS3_AgroClimatic_vars/NLDAS3/monthly_indicators"  # Output directory for monthly files
     
     # Check if data directory exists
     if not os.path.exists(data_dir):

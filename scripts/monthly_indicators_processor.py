@@ -20,7 +20,7 @@ import numpy as np
 from datetime import datetime
 import pandas as pd
 
-def process_monthly_indicators(data_dir="../data/NLDAS3", output_dir="../data/monthly_indicators"):
+def process_monthly_indicators(data_dir="/Volumes/Chinmay_2TB/NLDAS3_AgroClimatic_vars/NLDAS3/", output_dir="/Volumes/Chinmay_2TB/NLDAS3_AgroClimatic_vars/NLDAS3/monthly_indicators"):
     """
     Process daily NLDAS-3 data to calculate and save monthly climate indicators.
     
@@ -149,8 +149,8 @@ def process_monthly_indicators(data_dir="../data/NLDAS3", output_dir="../data/mo
 
 if __name__ == "__main__":
     # You can modify these paths as needed
-    data_directory = "../data/NLDAS3"
-    output_directory = "../data/monthly_indicators"
+    data_directory = "/Volumes/Chinmay_2TB/NLDAS3_AgroClimatic_vars/NLDAS3/"
+    output_directory = "/Volumes/Chinmay_2TB/NLDAS3_AgroClimatic_vars/NLDAS3/monthly_indicators"
     
     print("Monthly Climate Indicators Processor")
     print("=" * 50)
