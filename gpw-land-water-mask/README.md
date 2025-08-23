@@ -4,6 +4,7 @@ A comprehensive pipeline for processing GPW v4 (Gridded Population of the World)
 
 ## Project Structure
 
+**NOTE** For the .asc files and output mask file, see gpw-land-water-mask.zip
 ```
 gpw-land-water-mask/
 ├── data/
