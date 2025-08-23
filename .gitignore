@@ -8,5 +8,3 @@ data/
 # Environment files
 .env
 
-# Archive files
-*.zip
