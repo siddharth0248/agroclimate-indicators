@@ -1,0 +1,10 @@
+data/
+.DS_Store
+
+# NetCDF files (too large for GitHub)
+*.nc
+**/*.nc
+
+# Environment files
+.env
+
